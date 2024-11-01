@@ -1,0 +1,263 @@
+# Copyright (C) 2017 Responsive Media Gallery for Wordpress
+# This file is distributed under the same license as the Responsive Media Gallery for Wordpress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Media Gallery for Wordpress 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/responsive-media-"
+"gallery\n"
+"POT-Creation-Date: 2017-06-19 11:19:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-responsive-media-gallery-admin.php:131
+#: admin/class-responsive-media-gallery-admin.php:132
+msgid "Add New "
+msgstr ""
+
+#: admin/class-responsive-media-gallery-admin.php:200
+msgid "Gallery Detail"
+msgstr ""
+
+#: admin/class-responsive-media-gallery-admin.php:210
+msgid "Display Detail"
+msgstr ""
+
+#: admin/class-responsive-media-gallery-admin.php:278
+msgid "Sortorder"
+msgstr ""
+
+#: admin/class-responsive-media-gallery-admin.php:279
+msgid "Status"
+msgstr ""
+
+#: admin/class-responsive-media-gallery-admin.php:280
+#: admin/partials/add_vszgallery_meta_fields.php:16
+msgid "Short code"
+msgstr ""
+
+#: admin/class-responsive-media-gallery-admin.php:281
+msgid "Date"
+msgstr ""
+
+#: admin/class-responsive-media-gallery-admin.php:381
+msgid "shortcode"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:80
+msgid "Add Image"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:85
+msgid "Add Multiple Images"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:90
+msgid "Add Video"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:112
+msgid "Select All"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:113
+msgid "Delete Selected"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:132
+#: admin/partials/add_vszgallery_display_fields.php:179
+#: admin/partials/add_vszgallery_display_fields.php:310
+#: admin/partials/add_vszgallery_display_fields.php:397
+#: admin/partials/add_vszgallery_display_fields.php:794
+#: admin/partials/add_vszgallery_display_fields.php:1124
+#: admin/partials/add_vszgallery_display_fields.php:1247
+#: admin/partials/add_vszgallery_display_fields.php:1274
+#: admin/partials/add_vszgallery_display_fields.php:1492
+#: admin/partials/add_vszgallery_display_fields.php:1526
+#: admin/partials/add_vszgallery_display_fields.php:1579
+#: admin/partials/add_vszgallery_display_fields.php:1612
+msgid "Title"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:140
+#: admin/partials/add_vszgallery_display_fields.php:318
+msgid "Image"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:155
+#: admin/partials/add_vszgallery_display_fields.php:230
+#: admin/partials/add_vszgallery_display_fields.php:334
+#: admin/partials/add_vszgallery_display_fields.php:442
+msgid "Free Text"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:187
+msgid "Video URL"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:197
+#: admin/partials/add_vszgallery_display_fields.php:1284
+#: admin/partials/add_vszgallery_display_fields.php:1588
+#: admin/partials/add_vszgallery_display_fields.php:1621
+msgid "OR"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:202
+#: admin/partials/add_vszgallery_display_fields.php:415
+#: admin/partials/add_vszgallery_display_fields.php:1260
+#: admin/partials/add_vszgallery_display_fields.php:1287
+#: admin/partials/add_vszgallery_display_fields.php:1591
+#: admin/partials/add_vszgallery_display_fields.php:1624
+msgid "Upload Video"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:217
+#: admin/partials/add_vszgallery_display_fields.php:431
+msgid "Thumbnail Image"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:356
+msgid "Images"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:405
+msgid "Video Url"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:412
+#: admin/partials/add_vszgallery_display_fields.php:1257
+msgid "Or"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:797
+#: admin/partials/add_vszgallery_display_fields.php:1127
+#: admin/partials/add_vszgallery_display_fields.php:1249
+#: admin/partials/add_vszgallery_display_fields.php:1276
+#: admin/partials/add_vszgallery_display_fields.php:1495
+#: admin/partials/add_vszgallery_display_fields.php:1529
+#: admin/partials/add_vszgallery_display_fields.php:1581
+#: admin/partials/add_vszgallery_display_fields.php:1614
+msgid "Description"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:801
+#: admin/partials/add_vszgallery_display_fields.php:1131
+msgid "Exclue"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:805
+#: admin/partials/add_vszgallery_display_fields.php:1135
+#: admin/partials/add_vszgallery_display_fields.php:1302
+#: admin/partials/add_vszgallery_display_fields.php:1503
+#: admin/partials/add_vszgallery_display_fields.php:1537
+#: admin/partials/add_vszgallery_display_fields.php:1607
+#: admin/partials/add_vszgallery_display_fields.php:1640
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:1253
+#: admin/partials/add_vszgallery_display_fields.php:1280
+#: admin/partials/add_vszgallery_display_fields.php:1584
+#: admin/partials/add_vszgallery_display_fields.php:1617
+msgid "video Url"
+msgstr ""
+
+#: admin/partials/add_vszgallery_display_fields.php:1299
+#: admin/partials/add_vszgallery_display_fields.php:1499
+#: admin/partials/add_vszgallery_display_fields.php:1533
+#: admin/partials/add_vszgallery_display_fields.php:1603
+#: admin/partials/add_vszgallery_display_fields.php:1636
+msgid "Exclude"
+msgstr ""
+
+#: admin/partials/add_vszgallery_meta_fields.php:9
+#: admin/partials/vszgallery_category_field.php:17
+msgid "Layout"
+msgstr ""
+
+#: admin/partials/add_vszgallery_meta_fields.php:25
+#: admin/partials/vszgallery_category_field.php:34
+msgid "Border colour"
+msgstr ""
+
+#: admin/partials/add_vszgallery_meta_fields.php:30
+#: admin/partials/vszgallery_category_field.php:40
+msgid "Hover colour"
+msgstr ""
+
+#: admin/partials/add_vszgallery_meta_fields.php:35
+#: admin/partials/vszgallery_category_field.php:46
+msgid "Thumb dimension:"
+msgstr ""
+
+#: admin/partials/add_vszgallery_meta_fields.php:36
+#: admin/partials/vszgallery_category_field.php:49
+msgid "Width"
+msgstr ""
+
+#: admin/partials/add_vszgallery_meta_fields.php:38
+#: admin/partials/vszgallery_category_field.php:55
+msgid "Height"
+msgstr ""
+
+#: admin/partials/add_vszgallery_meta_fields.php:41
+#: admin/partials/vszgallery_category_field.php:61
+msgid "Number of Columns"
+msgstr ""
+
+#: admin/partials/vszgallery_category_field.php:27
+msgid "Short Code"
+msgstr ""
+
+#: custom_image/VSZ_Thumb.php:127
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: custom_image/VSZ_Thumb.php:242
+msgid "Image rotate failed."
+msgstr ""
+
+#: custom_image/VSZ_Thumb.php:264
+msgid "Image opacity change failed."
+msgstr ""
+
+#: custom_image/VSZ_Thumb.php:342
+msgid "Image color change failed."
+msgstr ""
+
+#: custom_image/VSZ_Thumb.php:358
+msgid "Image grayscale failed."
+msgstr ""
+
+#: custom_image/VSZ_Thumb.php:374
+msgid "Image negate failed."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Responsive Media Gallery for Wordpress"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "www.vsourz.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create a wonderful image gallery in couple of clicks with responsive media "
+"gallery plugin. A finest way to Promote your image and video online with "
+"different groups."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "vsourz Dizital"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.vsourz.com/"
+msgstr ""
